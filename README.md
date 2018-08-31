@@ -1,6 +1,3 @@
-# intsoltz
-
-IntentSolutionsTZ.mp4 - видео работы приложения
 
 main - реализация приложения с использованием библиотек Retrofit и Picasso
   (весь проект находится в TZ_intnt_sol_feb2018.rar)
